@@ -3,3 +3,4 @@ pdfminer.six
 sentence-transformers
 faiss-cpu
 numpy
+streamlit
